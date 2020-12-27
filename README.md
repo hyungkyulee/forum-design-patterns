@@ -46,4 +46,18 @@ T-Shaped Pattern Knowledge - study a broad knowledge of patters + some awakening
    5) simulate a model (create a context)
 
  - Examples
-   [please see the project source of 'StrategyPattern']
+   [please see the project source : DesignPatterns -> StrategyPattern]
+   
+ - Test Result
+ ```shell
+ ~/ref-sweng-design-patterns/DesignPatterns/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.dll
+ ========== STRATEGY PATTERN ==========
+ A duct is flying by its wing.
+ Quack Quack -!!!
+ I'm a real duck and able to fly...
+ 
+ The duck is hurt, and NOT able to fly.
+ Quiet -!!!
+
+ Process finished with exit code 0.
+ ```
