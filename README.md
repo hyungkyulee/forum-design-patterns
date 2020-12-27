@@ -50,7 +50,7 @@ T-Shaped Pattern Knowledge - study a broad knowledge of patters + some awakening
    
  - Test Result
  ```shell
- /usr/local/share/dotnet/dotnet /Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.dll
+ ~/ref-sweng-design-patterns/DesignPatterns/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.dll
  ========== STRATEGY PATTERN ==========
  Duct is flying by its wing.
  Quack Quack -!!!
