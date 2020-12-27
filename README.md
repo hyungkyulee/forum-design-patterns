@@ -52,10 +52,11 @@ T-Shaped Pattern Knowledge - study a broad knowledge of patters + some awakening
  ```shell
  ~/ref-sweng-design-patterns/DesignPatterns/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.dll
  ========== STRATEGY PATTERN ==========
- Duct is flying by its wing.
+ A duct is flying by its wing.
  Quack Quack -!!!
- I'm a real duck and cannot fly, but swim...
- Duck is NOT able to fly.
+ I'm a real duck and able to fly...
+ 
+ The duck is hurt, and NOT able to fly.
  Quiet -!!!
 
  Process finished with exit code 0.
