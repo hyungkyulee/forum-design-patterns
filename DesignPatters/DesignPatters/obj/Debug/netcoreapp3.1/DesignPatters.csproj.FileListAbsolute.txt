@@ -1,0 +1,12 @@
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/DesignPatters/bin/Debug/netcoreapp3.1/DesignPatters.deps.json
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/DesignPatters/bin/Debug/netcoreapp3.1/DesignPatters.runtimeconfig.json
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/DesignPatters/bin/Debug/netcoreapp3.1/DesignPatters.runtimeconfig.dev.json
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/DesignPatters/bin/Debug/netcoreapp3.1/DesignPatters.dll
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/DesignPatters/bin/Debug/netcoreapp3.1/DesignPatters.pdb
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/DesignPatters/obj/Debug/netcoreapp3.1/DesignPatters.csprojAssemblyReference.cache
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/DesignPatters/obj/Debug/netcoreapp3.1/DesignPatters.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/DesignPatters/obj/Debug/netcoreapp3.1/DesignPatters.AssemblyInfoInputs.cache
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/DesignPatters/obj/Debug/netcoreapp3.1/DesignPatters.AssemblyInfo.cs
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/DesignPatters/obj/Debug/netcoreapp3.1/DesignPatters.dll
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/DesignPatters/obj/Debug/netcoreapp3.1/DesignPatters.pdb
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/DesignPatters/obj/Debug/netcoreapp3.1/DesignPatters.genruntimeconfig.cache

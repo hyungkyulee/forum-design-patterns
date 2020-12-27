@@ -1,0 +1,12 @@
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.deps.json
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.runtimeconfig.json
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.runtimeconfig.dev.json
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.dll
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/StrategyPattern/bin/Debug/netcoreapp3.1/StrategyPattern.pdb
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.csprojAssemblyReference.cache
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.AssemblyInfoInputs.cache
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.AssemblyInfo.cs
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.dll
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.pdb
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatters/StrategyPattern/obj/Debug/netcoreapp3.1/StrategyPattern.genruntimeconfig.cache
