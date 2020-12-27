@@ -1,4 +1,5 @@
-# forum-design-patterns
+# Software Engineering - Design Patterns
+
 references 
 - Design Patterns Overview by Steve Smith
 - https://www.ionos.co.uk/digitalguide/websites/web-development/strategy-pattern/
