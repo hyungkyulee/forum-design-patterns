@@ -1,10 +1,11 @@
 # Software Engineering - Design Patterns
 
-references 
+[ references ] 
 - Design Patterns Overview by Steve Smith
 - https://www.ionos.co.uk/digitalguide/websites/web-development/strategy-pattern/
 - Head First : Design Patterns by Eric Freeman
 
+### Overview
 Design Pattern Origins - introduced at 1977 by Architect Christopher Alexander, followed by a design pattern book written in 1994.
 Design patterns are general solutions to existing problems
 
@@ -18,7 +19,7 @@ learning stage of design pattern : ignorance -> awakening -> oversealous -> mast
 
 T-Shaped Pattern Knowledge - study a broad knowledge of patters + some awakening and deep level of mastery in some set of patterns
 
-A good patterns in c#
+[ A good patterns in c# ]
 - strategy design pattern
 - repository design pattern
 - adapter design pattern
@@ -27,7 +28,7 @@ A good patterns in c#
 - singleton design pattern
 
 
-### strategy design pattern
+## strategy design pattern
  - Structure : Context - IStrategy - Strategy
  - Purpose : make the code more extensible and testable
  - Key Properties
@@ -38,11 +39,11 @@ A good patterns in c#
    - Reusable : multiple use of strategies
    
  - Actions
-   - de-couple the changable parts from the class
-   - create a behaviour class(s)
-   - preapre a setter method to be changable in excution
-   - express each behaviour to an interface, and it will be implemented in the behaviour classes
-   - 
+   1) de-couple the changeable parts from the main class
+   2) express each behaviour to an interface
+   3) implement behaviour classes via interface
+   4) prepare a setter method to be changeable in a runtime
+   5) simulate a model (create a context)
 
  - Examples
-   - 
+   [please see the project source of 'StrategyPattern']
