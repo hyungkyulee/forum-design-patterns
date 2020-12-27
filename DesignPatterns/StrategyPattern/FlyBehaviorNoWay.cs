@@ -6,7 +6,7 @@ namespace StrategyPattern
     {
         public void Fly()
         {
-            Console.WriteLine("Duck is NOT able to fly.");
+            Console.WriteLine("The duck is hurt, and NOT able to fly.");
         }
     }
 }

@@ -13,7 +13,7 @@ namespace StrategyPattern
 
         public override void Display()
         {
-            Console.WriteLine("I'm a real duck and cannot fly, but swim...");
+            Console.WriteLine("I'm a real duck and able to fly...");
         }
     }
 }

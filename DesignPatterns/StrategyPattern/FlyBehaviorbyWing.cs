@@ -7,7 +7,7 @@ namespace StrategyPattern
     {
         public void Fly()
         {
-            Console.WriteLine("Duct is flying by its wing.");
+            Console.WriteLine("A duct is flying by its wing.");
         }
     }
 }
