@@ -4,11 +4,11 @@ namespace StrategyPattern
 {
     public class realDuctContext : Duck
     {
-
+        // 5) simulate a model (create a context)
         public realDuctContext()
         {
-            flyBehavior = new FlyBehaviorbyWing();
-            quackBehavior = new QuackBehaviorQuack();
+            FlyBehavior = new FlyBehaviorbyWing();
+            QuackBehavior = new QuackBehaviorQuack();
         }
 
         public override void Display()

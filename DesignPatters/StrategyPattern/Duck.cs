@@ -4,9 +4,10 @@ namespace StrategyPattern
 {
     public abstract class Duck
     {
-        private protected IFlyBehavior flyBehavior;
-        private protected IQuackBehavior quackBehavior;
-        
+        // 1) de-couple the changeable parts
+        public IFlyBehavior FlyBehavior { get; private protected set; }
+        public IQuackBehavior QuackBehavior { get; private protected set; }
+
         public Duck()
         {
         }
@@ -19,12 +20,23 @@ namespace StrategyPattern
 
         public void DoFly()
         {
-            flyBehavior.Fly();
+            FlyBehavior.Fly();
         }
 
         public void DoQuack()
         {
-            quackBehavior.Quack();
+            QuackBehavior.Quack();
+        }
+
+        // 4) preapre a setter method to be changeable in a runtime
+        public void setFlyBehavior(IFlyBehavior flyBehavior)
+        {
+            FlyBehavior = flyBehavior;
+        }
+
+        public void setQuackBehavior(IQuackBehavior quackBehavior)
+        {
+            QuackBehavior = quackBehavior;
         }
     }
 }
