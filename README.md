@@ -61,3 +61,26 @@ T-Shaped Pattern Knowledge - study a broad knowledge of patters + some awakening
 
  Process finished with exit code 0.
  ```
+
+## observer design pattern
+ - Structure : Subject - IObserver - Observer
+ - Purpose : enables a subscriber to register with and receive notifications from a provider (scenario that requires push-based noti and pull-based notification.)
+ - Key Properties
+   - Behaviour-based : behaviours and changes are easily implementable, and changes are possible during aprogram's runtime
+   - Efficiency-oriented : simplify and optimise the code and maintenance by decoupling
+   - Future-oriented : changes and optimisations are easy to implemented in a mid/long term
+   - Extensible : independence of objects and classes
+   - Reusable : multiple use of strategies
+   
+ - Actions
+   1) de-couple the changeable parts from the main class
+   2) express each behaviour to an interface
+   3) implement behaviour classes via interface
+   4) prepare a setter method to be changeable in a runtime
+   5) simulate a model (create a context)
+
+ - Examples
+   [please see the project source : DesignPatterns -> StrategyPattern]
+   
+ - Test Result
+ ```shell
