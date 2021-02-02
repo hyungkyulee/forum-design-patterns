@@ -6,8 +6,9 @@
 - Head First : Design Patterns by Eric Freeman
 
 ### Overview
-Design Pattern Origins - introduced at 1977 by Architect Christopher Alexander, followed by a design pattern book written in 1994.
-Design patterns are general solutions to existing problems
+ - Design Pattern Origins - introduced at 1977 by Architect Christopher Alexander, followed by a design pattern book written by Gang in 1994 for Smalltalk and C++ which were dead or not much strong than before. 
+ - some of the patterns have been incorporated into C#, Java, Ruby, etc
+ - Design patterns are general solutions to existing problems
 
 Reasons of deign patterns
 - Avoid reinventing wheels
@@ -18,6 +19,40 @@ Reasons of deign patterns
 learning stage of design pattern : ignorance -> awakening -> oversealous -> mastery
 
 T-Shaped Pattern Knowledge - study a broad knowledge of patters + some awakening and deep level of mastery in some set of patterns
+
+## SOLID Pattern
+
+## The category of Patterns
+### Creational
+ - Builder
+ - Factories
+   - Abstract Factory
+   - Factory Method
+ - Prototype
+ - Singleton
+ 
+### Structural
+ - Adapter
+ - Bridge
+ - Caomposite
+ - Decorator
+ - Facade
+ - Flyweight
+ - Proxy
+ 
+ ### Behavioural
+ - Chain of Responsibility
+ - Command
+ - Interpreter
+ - Iterator
+ - Mediator
+ - Memento
+ - Null Object
+ - Observer
+ - State
+ - Strategy
+ - Template Method
+
 
 [ A good patterns in c# ]
 - strategy design pattern
