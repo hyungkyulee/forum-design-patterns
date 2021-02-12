@@ -21,11 +21,22 @@ learning stage of design pattern : ignorance -> awakening -> oversealous -> mast
 T-Shaped Pattern Knowledge - study a broad knowledge of patters + some awakening and deep level of mastery in some set of patterns
 
 ## SOLID Pattern
-### Single Responsibility Principle
-All of that module, class or function's services should be narrowly aligned with that responsibility.
 [ref: Martin, Robert C. (2003). Agile Software Development, Principles, Patterns, and Practices. Prentice Hall. p. 95. ISBN 978-0135974445.]
 
+### Single Responsibility Principle
+All of that module, class or function's services should be narrowly aligned with that responsibility.
 
+### Open closed Principle
+software entities (classes, modules, functions, etc.) should be open for extension, but closed for modification
+
+ * Specification Pattern : ( = open closed pattern ) 
+```
+ a particular software design pattern, whereby business rules can be recombined by chaining the business rules together using boolean logic. The pattern is frequently used in the context of domain-driven design.
+
+A specification pattern outlines a business rule that is combinable with other business rules. In this pattern, a unit of business logic inherits its functionality from the abstract aggregate Composite Specification class. The Composite Specification class has one function called IsSatisfiedBy that returns a boolean value. After instantiation, the specification is "chained" with other specifications, making new specifications easily maintainable, yet highly customizable business logic. Furthermore, upon instantiation the business logic may, through method invocation or inversion of control, have its state altered in order to become a delegate of other classes such as a persistence repository.
+
+As a consequence of performing runtime composition of high-level business/domain logic, the Specification pattern is a convenient tool for converting ad-hoc user search criteria into low level logic to be processed by repositories.
+```
 
 ## The category of Patterns
 ### Creational
