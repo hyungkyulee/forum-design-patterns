@@ -21,6 +21,11 @@ learning stage of design pattern : ignorance -> awakening -> oversealous -> mast
 T-Shaped Pattern Knowledge - study a broad knowledge of patters + some awakening and deep level of mastery in some set of patterns
 
 ## SOLID Pattern
+### Single Responsibility Principle
+All of that module, class or function's services should be narrowly aligned with that responsibility.
+[ref: Martin, Robert C. (2003). Agile Software Development, Principles, Patterns, and Practices. Prentice Hall. p. 95. ISBN 978-0135974445.]
+
+
 
 ## The category of Patterns
 ### Creational
