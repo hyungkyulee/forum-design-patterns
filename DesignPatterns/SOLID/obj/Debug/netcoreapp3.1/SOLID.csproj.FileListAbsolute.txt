@@ -1,0 +1,12 @@
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/SOLID/bin/Debug/netcoreapp3.1/SOLID.deps.json
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/SOLID/bin/Debug/netcoreapp3.1/SOLID.runtimeconfig.json
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/SOLID/bin/Debug/netcoreapp3.1/SOLID.runtimeconfig.dev.json
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/SOLID/bin/Debug/netcoreapp3.1/SOLID.dll
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/SOLID/bin/Debug/netcoreapp3.1/SOLID.pdb
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/SOLID/obj/Debug/netcoreapp3.1/SOLID.csprojAssemblyReference.cache
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/SOLID/obj/Debug/netcoreapp3.1/SOLID.csproj.CoreCompileInputs.cache
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/SOLID/obj/Debug/netcoreapp3.1/SOLID.AssemblyInfoInputs.cache
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/SOLID/obj/Debug/netcoreapp3.1/SOLID.AssemblyInfo.cs
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/SOLID/obj/Debug/netcoreapp3.1/SOLID.dll
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/SOLID/obj/Debug/netcoreapp3.1/SOLID.pdb
+/Users/albert/_ref/sw-engineering/ref-sweng-design-patterns/DesignPatterns/SOLID/obj/Debug/netcoreapp3.1/SOLID.genruntimeconfig.cache
